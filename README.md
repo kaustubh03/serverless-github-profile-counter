@@ -4,7 +4,7 @@
 ### Steps:
 * All you need is add below code on to your readme with your username
 ```
-  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=<YOUR_USERNAME>)
+  ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=YOUR_USERNAME)
 ```
 ### Result:
 <img width="500" src="https://i.ibb.co/bXVKZmg/Screenshot-2020-09-29-at-10-23-23-PM.png" />
